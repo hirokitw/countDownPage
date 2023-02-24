@@ -50,7 +50,7 @@
 .new-year {
   display: block;
   font-family: 'Roboto', sans-serif;
-  font-size: 70px;
+  font-size: 50px;
   font-weight: bold;
   letter-spacing: 0.05em;
 }
@@ -59,7 +59,7 @@
 .election {
   display: block;
   font-family: 'Roboto', sans-serif;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: bold;
   letter-spacing: 0.05em;
 }
@@ -85,7 +85,7 @@
 
 /* hours, minutes, secondsの数値のスタイル */
 .time-num {
-  font-size: 60px;
+  font-size: 80px;
   line-height: 1;
 }
 

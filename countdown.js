@@ -10,7 +10,7 @@ const currentYear = new Date().getFullYear();
 // 来年の値を取得
 const nextYear = currentYear;
 // 来年の1月1日00:00:00のDateオブジェクトを取得
-const electionTime = new Date(`March 23 ${nextYear} 00:00:00`);
+const electionTime = new Date(`April 23 ${nextYear} 00:00:00`);
 
 // 来年の値をDOMに追加
 year.innerText = nextYear;
