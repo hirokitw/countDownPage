@@ -8,7 +8,7 @@ const seconds = document.getElementById('seconds');
 // 今年の値を取得
 const currentYear = new Date().getFullYear();
 // 来年の値を取得
-const nextYear = currentYear + 1;
+const nextYear = currentYear;
 // 来年の1月1日00:00:00のDateオブジェクトを取得
 const electionTime = new Date(`March 23 ${nextYear} 00:00:00`);
 
